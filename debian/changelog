@@ -1,10 +1,12 @@
-bluez (5.48-1~rpi1) UNRELEASED; urgency=medium
+bluez (5.48-1~rpi1) unstable; urgency=medium
 
+  [ Conn O'Griofa ]
   * Update to 5.48 (unofficial).
   * Remove 0002-autopair-Don-t-handle-the-iCade.patch.
   * Update libbluetooth3.symbols.
+  * Import Raspbian patches
 
- -- Conn O'Griofa <connogriofa@gmail.com>  Tue, 23 Jan 2018 01:22:39 +0000
+ -- Conn O'Griofa <connogriofa@gmail.com>  Thu, 25 Jan 2018 01:48:19 +0000
 
 bluez (5.47-1) unstable; urgency=medium
 
